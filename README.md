@@ -1,5 +1,6 @@
 # MoreAccessorySlots
-Provides up to 2 extra accessory slots.
+Provides up to 2 extra accessory slots.  
+The most right one considered the most outer layer, so that is taking the damage from struggles.  
 # Installation 
 Download and install the dependancy mod: ModSettings  
 Download and place the dll file into your \Mods folder.  
