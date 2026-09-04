@@ -1,0 +1,106 @@
+{
+  "English": {
+	  
+        "MASM.AccessorySlots.Section" : "Accessory Slots",
+        "MASM.AccessorySlots.Name" : "Extra Accessory Slots",		
+        "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+  },
+  "Russian": {
+
+        "MASM.AccessorySlots.Section" : "Cлоты для аксессуаров",
+        "MASM.AccessorySlots.Name" : "Дополнительные слоты для аксессуаров",
+        "MASM.AccessorySlots.Decription" : "Сколько дополнительных слотов для аксессуаров добавить помимо стандартных 2 (Base, Mid). 0 = только стандартные, 1 = +1 (Top), 2 = +2 (Top, Top2). По умолчанию: 2. Для вступления в силу необходимо перезапустить игру (или перезагрузить сохранение)."
+
+  },
+  "French": {
+
+        "MASM.AccessorySlots.Section" : "Accessory Slots",
+        "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+        "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+
+  },
+  "German": {
+
+        "MASM.AccessorySlots.Section" : "Accessory Slots",
+        "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+        "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+
+  },
+  "Spanish": {
+
+        "MASM.AccessorySlots.Section" : "Accessory Slots",
+        "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+        "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+  },
+  "Brazilian": {
+
+        "MASM.AccessorySlots.Section" : "Accessory Slots",
+        "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+        "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+		
+  },  
+  "Polish": {
+
+        "MASM.AccessorySlots.Section" : "Accessory Slots",
+        "MASM.AccessorySlots.Name" : "Extra Accessory Slots",	
+        "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+		
+  },
+  "Czech": {
+
+      "MASM.AccessorySlots.Section" : "Accessory Slots",
+      "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+      "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."  },
+	  
+  "Turkish": {
+
+      "MASM.AccessorySlots.Section" : "Accessory Slots",
+      "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+      "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+ 
+ },
+  "Italian": {
+
+      "MASM.AccessorySlots.Section" : "Accessory Slots",
+      "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+      "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+	  
+  },
+  "Dutch": {
+
+      "MASM.AccessorySlots.Section" : "Accessory Slots",
+      "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+      "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+ 
+ },
+  "Japanese": {
+
+      "MASM.AccessorySlots.Section" : "Accessory Slots",
+      "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+      "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+
+
+  },
+  "Korean": {
+
+      "MASM.AccessorySlots.Section" : "Accessory Slots",
+      "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+      "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+
+  },
+  "ChineseSimplified": {
+
+      "MASM.AccessorySlots.Section" : "Accessory Slots",
+      "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+      "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+
+
+  },
+  "ChineseTraditional": {
+
+      "MASM.AccessorySlots.Section" : "Accessory Slots",
+      "MASM.AccessorySlots.Name" : "Extra Accessory Slots",
+      "MASM.AccessorySlots.Decription" : "How many extra accessory slots to add beyond the vanilla 2 (Base, Mid). 0 = vanilla only, 1 = +1 (Top), 2 = +2 (Top, Top2). Default: 2. Requires restarting the game (or reloading the save) to take effect."
+
+  }
+}

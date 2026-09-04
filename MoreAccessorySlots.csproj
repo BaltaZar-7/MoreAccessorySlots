@@ -45,6 +45,12 @@
             <Private>False</Private>
         </Reference>
     </ItemDefinitionGroup>
+    <ItemGroup>
+      <None Remove="localization.json" />
+    </ItemGroup>
+    <ItemGroup>
+      <EmbeddedResource Include="localization.json" />
+    </ItemGroup>
 
     <!--This is the list of assemblies that the mod references. Most of these are unnecessary for normal mods, but are included here for completeness.-->
     <ItemGroup>
